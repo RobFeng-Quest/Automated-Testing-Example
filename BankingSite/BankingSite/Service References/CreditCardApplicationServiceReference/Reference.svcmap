@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="480bd04a-c28a-4bac-b955-d5e523bfcbc9" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:62727/Services/CreditCardApplicationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CreditCardApplicationService.xsd" MetadataType="Schema" ID="e801e1d7-e47c-4b65-aaa2-1a4a7154ec0e" SourceId="1" SourceUrl="http://localhost:62727/Services/CreditCardApplicationService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CreditCardApplicationService1.xsd" MetadataType="Schema" ID="d99ce05d-f16d-4415-b077-c5eab6a233fd" SourceId="1" SourceUrl="http://localhost:62727/Services/CreditCardApplicationService.svc?xsd=xsd3" />
+    <MetadataFile FileName="CreditCardApplicationService2.xsd" MetadataType="Schema" ID="c6defb9d-bed7-4c5e-ab89-2968a7cd6abe" SourceId="1" SourceUrl="http://localhost:62727/Services/CreditCardApplicationService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CreditCardApplicationService3.xsd" MetadataType="Schema" ID="5e3ec9be-868b-4679-8d76-67adfe36e52d" SourceId="1" SourceUrl="http://localhost:62727/Services/CreditCardApplicationService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CreditCardApplicationService.wsdl" MetadataType="Wsdl" ID="162547b1-12ce-4061-9898-0e9b1e8a4047" SourceId="1" SourceUrl="http://localhost:62727/Services/CreditCardApplicationService.svc?wsdl" />
+    <MetadataFile FileName="CreditCardApplicationService.disco" MetadataType="Disco" ID="33f08191-344d-43f7-a6bb-84b7a3ff8904" SourceId="1" SourceUrl="http://localhost:62727/Services/CreditCardApplicationService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
